@@ -1,4 +1,4 @@
-# ishiraTCM
+# PatrickStarTCM
 > This repository contains all test cases for Pintado, organized by feature module.  
 
 
