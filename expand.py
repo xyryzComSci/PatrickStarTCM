@@ -15,9 +15,9 @@ def main():
     SAFE_PATH = re.compile(r"[^\w\-. ]+")
 
     read_me = []
-    read_me.append("# ishiraTCM")
+    read_me.append("#PatrickStarTCM")
     read_me.append(
-        "> This repository contains all test cases for PawsMatch, organized by feature module.  \n\n"
+        "> This repository contains all test cases for Pintado, organized by feature module.  \n\n"
     )
     read_me.append("## Test Cases  \n\n")
 
