@@ -1,0 +1,45 @@
+Test Case ID,Test Case,Sample Summary
+AUTHENTICATION TESTING,,
+Email Sign-Up,AUTH_001,Verify that users can create an account using a valid email address and password.
+Email Login,AUTH_002,Verify that users can log in with valid email credentials.
+MOVEMENT CONTROL TESTING,,
+Horizontal Movement,MOVE_001,Verify that the character moves left and right smoothly in response to input.
+Jump Mechanics,MOVE_002,Verify that the character can jump to the correct height and descends naturally due to gravity.
+Collision Detection,MOVE_003,Verify that the character cannot pass through solid objects and that collisions are detected accurately.
+Special Movement,MOVE_004,"Verify that the character can perform wall slide, wall jump, double jump."
+COMBAT CONTROL TESTING,,
+Basic Attack,COMBAT_001,Verify that the character can perform basic attacks causing damage to enemies.
+Parry Mechanic,COMBAT_002,Verify that parrying ('q') allows the character to deflect enemy attacks and enables counterattacks.
+Combo Attacks,COMBAT_003,Verify that the character can execute combo attacks with correct input sequences.
+Damage Calculation,COMBAT_004,"Verify that damage dealt and received is calculated correctly, updating health bars appropriately."
+Enemy Interaction,COMBAT_005,Verify that enemies respond correctly to player attacks and parries.
+HUD TESTING,,
+Player Stats Display,HUD_001,Verify that the HUD accurately displays the player's health
+Minimap Functionality,HUD_002,Verify that the minimap displays the current location and explored areas correctly.
+Enemy Stats Display,HUD_003,Verify that the HUD displays enemy health and status when engaged in combat.
+PROCEDURAL GENERATION TESTING,,
+Level Generation,PROC_001,Verify that each new game session generates a unique level layout.
+Enemy Placement,PROC_002,Verify that enemies are placed randomly within the level without obstructing progression.
+Item Placement,PROC_003,Verify that items are distributed randomly and are accessible to the player.
+Seed Consistency,PROC_004,Verify that using the same seed generates identical level layouts.
+Difficulty Scaling,PROC_005,Verify that procedurally generated levels increase in difficulty appropriately as the game progresses.
+ENEMY DESIGN TESTING,,
+AI Behavior,ENEMY_001,Verify that enemies follow their AI patterns and interact with the player as designed.
+Attack Mechanics,ENEMY_002,Verify that enemies execute attacks correctly and respond to player actions.
+Boss Behaviors,ENEMY_003,Verify that boss enemies exhibit unique behaviors and mechanics distinct from regular enemies.
+Enemy Variety,ENEMY_004,Verify that different enemy types have distinct behaviors and attack patterns.
+PLAYER PROGRESSION TESTING,,
+Experience Accumulation,PROG_001,Verify that players gain experience points appropriately and level up as expected.
+Skill Tree Navigation,PROG_002,Verify that players can navigate the skill tree and apply upgrades successfully.
+Stat Increases,PROG_003,Verify that player stats increase correctly upon leveling up.
+Save Progression,PROG_004,Verify that player progression is saved accurately without data loss.
+Load Progression,PROG_005,Verify that previously saved progression can be loaded correctly.
+LEVEL DESIGN TESTING,,
+Layout Complexity,LEVEL_001,"Verify that levels are complex yet navigable, with clear paths and objectives."
+Hazard Placement,LEVEL_002,Verify that hazards and obstacles are placed to challenge the player without being unfair.
+Level Transitions,LEVEL_003,Verify that transitions between levels occur smoothly without errors.
+SETTING CUSTOMIZABILITY TESTING,,
+Control Remapping,SETTINGS_001,"Verify that players can remap controls, and changes take effect immediately."
+Audio Adjustments,SETTINGS_002,"Verify that audio settings (volume, mute) adjust game sounds as expected."
+Video Settings,SETTINGS_003,"Verify that video settings (resolution, fullscreen/windowed mode) apply correctly."
+Accessibility Options,SETTINGS_004,"Verify that accessibility settings (e.g., colorblind modes) modify the game display to accommodate player needs."
