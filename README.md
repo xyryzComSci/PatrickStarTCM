@@ -1,2 +1,51 @@
-# PatrickStarTCM
-A 2D Platformer Roguelike Desktop Game Made in Unity
+# ishiraTCM
+> This repository contains all test cases for Pintado, organized by feature module.  
+
+
+## Test Cases  
+
+
+ * [AUTHENTICATION TESTING](<./AUTHENTICATION TESTING>)  
+   * [AUTH_001: Email Sign-Up](<./AUTHENTICATION TESTING/AUTH_001_email_sign_up.md>)  
+   * [AUTH_002: Email Login](<./AUTHENTICATION TESTING/AUTH_002_email_login.md>)  
+ * [MOVEMENT CONTROL TESTING](<./MOVEMENT CONTROL TESTING>)  
+   * [MOVE_001: Horizontal Movement](<./MOVEMENT CONTROL TESTING/MOVE_001_horizontal_movement.md>)  
+   * [MOVE_002: Jump Mechanics](<./MOVEMENT CONTROL TESTING/MOVE_002_jump_mechanics.md>)  
+   * [MOVE_003: Collision Detection](<./MOVEMENT CONTROL TESTING/MOVE_003_collision_detection.md>)  
+   * [MOVE_004: Special Movement](<./MOVEMENT CONTROL TESTING/MOVE_004_special_movement.md>)  
+ * [COMBAT CONTROL TESTING](<./COMBAT CONTROL TESTING>)  
+   * [COMBAT_001: Basic Attack](<./COMBAT CONTROL TESTING/COMBAT_001_basic_attack.md>)  
+   * [COMBAT_002: Parry Mechanic](<./COMBAT CONTROL TESTING/COMBAT_002_parry_mechanic.md>)  
+   * [COMBAT_003: Combo Attacks](<./COMBAT CONTROL TESTING/COMBAT_003_combo_attacks.md>)  
+   * [COMBAT_004: Damage Calculation](<./COMBAT CONTROL TESTING/COMBAT_004_damage_calculation.md>)  
+   * [COMBAT_005: Enemy Interaction](<./COMBAT CONTROL TESTING/COMBAT_005_enemy_interaction.md>)  
+ * [HUD TESTING](<./HUD TESTING>)  
+   * [HUD_001: Player Stats Display](<./HUD TESTING/HUD_001_player_stats_display.md>)  
+   * [HUD_002: Minimap Functionality](<./HUD TESTING/HUD_002_minimap_functionality.md>)  
+   * [HUD_003: Enemy Stats Display](<./HUD TESTING/HUD_003_enemy_stats_display.md>)  
+ * [PROCEDURAL GENERATION TESTING](<./PROCEDURAL GENERATION TESTING>)  
+   * [PROC_001: Level Generation](<./PROCEDURAL GENERATION TESTING/PROC_001_level_generation.md>)  
+   * [PROC_002: Enemy Placement](<./PROCEDURAL GENERATION TESTING/PROC_002_enemy_placement.md>)  
+   * [PROC_003: Item Placement](<./PROCEDURAL GENERATION TESTING/PROC_003_item_placement.md>)  
+   * [PROC_004: Seed Consistency](<./PROCEDURAL GENERATION TESTING/PROC_004_seed_consistency.md>)  
+   * [PROC_005: Difficulty Scaling](<./PROCEDURAL GENERATION TESTING/PROC_005_difficulty_scaling.md>)  
+ * [ENEMY DESIGN TESTING](<./ENEMY DESIGN TESTING>)  
+   * [ENEMY_001: AI Behavior](<./ENEMY DESIGN TESTING/ENEMY_001_ai_behavior.md>)  
+   * [ENEMY_002: Attack Mechanics](<./ENEMY DESIGN TESTING/ENEMY_002_attack_mechanics.md>)  
+   * [ENEMY_003: Boss Behaviors](<./ENEMY DESIGN TESTING/ENEMY_003_boss_behaviors.md>)  
+   * [ENEMY_004: Enemy Variety](<./ENEMY DESIGN TESTING/ENEMY_004_enemy_variety.md>)  
+ * [PLAYER PROGRESSION TESTING](<./PLAYER PROGRESSION TESTING>)  
+   * [PROG_001: Experience Accumulation](<./PLAYER PROGRESSION TESTING/PROG_001_experience_accumulation.md>)  
+   * [PROG_002: Skill Tree Navigation](<./PLAYER PROGRESSION TESTING/PROG_002_skill_tree_navigation.md>)  
+   * [PROG_003: Stat Increases](<./PLAYER PROGRESSION TESTING/PROG_003_stat_increases.md>)  
+   * [PROG_004: Save Progression](<./PLAYER PROGRESSION TESTING/PROG_004_save_progression.md>)  
+   * [PROG_005: Load Progression](<./PLAYER PROGRESSION TESTING/PROG_005_load_progression.md>)  
+ * [LEVEL DESIGN TESTING](<./LEVEL DESIGN TESTING>)  
+   * [LEVEL_001: Layout Complexity](<./LEVEL DESIGN TESTING/LEVEL_001_layout_complexity.md>)  
+   * [LEVEL_002: Hazard Placement](<./LEVEL DESIGN TESTING/LEVEL_002_hazard_placement.md>)  
+   * [LEVEL_003: Level Transitions](<./LEVEL DESIGN TESTING/LEVEL_003_level_transitions.md>)  
+ * [SETTING CUSTOMIZABILITY TESTING](<./SETTING CUSTOMIZABILITY TESTING>)  
+   * [SETTINGS_001: Control Remapping](<./SETTING CUSTOMIZABILITY TESTING/SETTINGS_001_control_remapping.md>)  
+   * [SETTINGS_002: Audio Adjustments](<./SETTING CUSTOMIZABILITY TESTING/SETTINGS_002_audio_adjustments.md>)  
+   * [SETTINGS_003: Video Settings](<./SETTING CUSTOMIZABILITY TESTING/SETTINGS_003_video_settings.md>)  
+   * [SETTINGS_004: Accessibility Options](<./SETTING CUSTOMIZABILITY TESTING/SETTINGS_004_accessibility_options.md>)  
